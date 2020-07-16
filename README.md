@@ -2,9 +2,13 @@
 <h3 align="center">A passionate cloud warrior from India</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=rekid46 alt=rekid46/> </p>
 
+- 🔭 I’m currently working on **Docker Images**
+
 - 💬 Ask me about **AWS,Docker**
 
 - 📫 How to reach me **singhranjan9024@gmail.com**
+
+- ⚡ Fun fact **Bike over anything❤️**
 
 <p align="left"><img src=https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt=amazonwebservices width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg alt=c width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=cplusplus width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg alt=docker width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg alt=nginx width="20" height="20"/></p><p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rekid46&show_icons=true alt=rekid46 /> </p>
 
