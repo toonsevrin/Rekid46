@@ -1,31 +1,16 @@
-### Hi there 👋,Ranjan Singh ,I'm 21 years old self-taught developer from India.
+<h1 align="center">Hi 👋, I'm Ranjan Singh</h1>
+<h3 align="center">A passionate cloud warrior from India</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=rekid46 alt=rekid46/> </p>
 
-- 🔭 I’m currently working on AWS and Docker.
+- 💬 Ask me about **AWS,Docker**
 
-- 🌱 I’m currently learning Kubernetes.
+- 📫 How to reach me **singhranjan9024@gmail.com**
 
-- 💬 Ask me about Cloud Computing and Solution Architect.
+<p align="left"><img src=https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg alt=amazonwebservices width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/c/c-original.svg alt=c width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg alt=cplusplus width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg alt=docker width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg alt=html5 width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg alt=javascript width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg alt=mysql width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg alt=python width="20" height="20"/> <img src=https://konpa.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg alt=nginx width="20" height="20"/></p><p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=rekid46&show_icons=true alt=rekid46 /> </p>
 
-- 📫 Connect? Here :
-<!-- display the social media buttons in your README -->
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][6.1]][6]
-
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
-[1]: http://www.twitter.com/Rekid46
-[2]: http://www.facebook.com/rekidd46
-[6]: http://www.github.com/Rekid46
-
-![Ranjan's github stats](https://github-readme-stats.vercel.app/api?username=Rekid46&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+<a href=https://twitter.com/rekid46 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="rekid46" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/ranjan-singh-4b73431ab target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="ranjan-singh-4b73431ab" height="20" width="20" /></a>
+<a href=https://fb.com/rekidd46 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg alt="rekidd46" height="20" width="20" /></a>
+<a href=https://instagram.com/re_kid_46 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="re_kid_46" height="20" width="20" /></a>
+</p>
