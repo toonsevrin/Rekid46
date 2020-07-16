@@ -1,8 +1,11 @@
 ### Hi there 👋,Ranjan Singh ,I'm 21 years old self-taught developer from India.
 
 - 🔭 I’m currently working on AWS and Docker.
+
 - 🌱 I’m currently learning Kubernetes.
+
 - 💬 Ask me about Cloud Computing and Solution Architect.
+
 - 📫 Connect? Here :
 <!-- display the social media buttons in your README -->
 
